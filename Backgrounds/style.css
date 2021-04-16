@@ -1,0 +1,14 @@
+/* .baby{
+    background-image: url("images/baby-lying-on-pink-bed-1556706-v2__FillMaxWzU0NCwzMjhd.jpg");
+    background-size: 400px auto;
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top left;
+} */
+
+body{
+    background: black url("images/baby-lying-on-pink-bed-1556706-v2__FillMaxWzU0NCwzMjhd.jpg") no-repeat top center /
+    400px auto;
+}
