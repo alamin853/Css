@@ -1,0 +1,10 @@
+.alamin{
+    border-width: 5px 10px 15px 20px;
+    border-color: black red blue yellow;
+    border-style: solid dotted dashed ridge;
+    border-radius: 5px 10px 15px 20px;
+}
+
+/* .alamin{
+    border: 5px solid red;
+} */
