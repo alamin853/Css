@@ -1,0 +1,17 @@
+p{
+    color: green;
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 50px;
+    line-height: 30px;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+h2{
+    letter-spacing: 5px;
+    text-decoration: underline;
+    word-spacing: 30px;
+    text-shadow: 5px 0px red;
+}
