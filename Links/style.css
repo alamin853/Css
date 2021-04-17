@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 5px;
+    font-family: tahoma;
+    border: gray;
+}
+a:hover{
+    background-color: blue;
+}
+a:active{
+    background-color: yellow;
+    color: red;
+}
