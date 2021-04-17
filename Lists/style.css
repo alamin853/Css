@@ -1,0 +1,9 @@
+.frout{
+    list-style-type: square;
+}
+.food{
+    list-style-type: circle;
+}
+.drink{
+    list-style-type: none;
+}
