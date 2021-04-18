@@ -1,0 +1,17 @@
+img:hover{
+    opacity: 0.8;
+}
+.bg{
+    background-image: url(./images/baby-lying-on-pink-bed-1556706-v2__FillMaxWzU0NCwzMjhd.jpg);
+    width: 400px;
+    height: 350px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.box p{
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    opacity: 0.4;
+    margin-top: 100px;
+}
