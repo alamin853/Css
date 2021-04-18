@@ -1,0 +1,12 @@
+/* p::first-letter{
+    color: red;
+    font-size: 100px;
+} */
+
+p::first-line{
+    color: red;
+}
+
+h2::before{
+    content: "Hello ";
+}
